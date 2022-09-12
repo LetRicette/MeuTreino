@@ -17,52 +17,49 @@ class TreinoA extends StatelessWidget {
               serie: "3x10",
             ),
             ExercicioCardWidget(
-              exercicio: "Supino sentado",
-              serie: "4x12",
+              exercicio: "LegPress reto",
+              serie: "5x10",
             ),
             ExercicioCardWidget(
-              exercicio: "Desenvolvimento pela frente c/ HBC",
-              serie: '4x12',
+              exercicio: "Cadeira Extensora",
+              serie: '3x10',
             ),
             ExercicioCardWidget(
-              exercicio: "LegPress Cadeia cinemática fechada reto",
-              serie: '4x12',
+              exercicio: "Cadeira abdutora",
+              serie: '3x20',
             ),
             ExercicioCardWidget(
-              exercicio: "Cadeira adutora 2 tempos",
-              serie: '4x12',
-            ),
-            ExercicioCardWidget(
-              exercicio: "Cadeira solear",
-              serie: '4x12',
-            ),
-            ExercicioCardWidget(
-              exercicio: "Cadeira gluteo (Ext. quadril)",
-              serie: '4x12',
+              exercicio: "Abdução de quadril Decubito Lateral Caneleira",
+              serie: '3x15 - 3, 2, 1 Tempo',
             ),
             ExercicioCardWidget(
               exercicio: "Extensão de quadril tornozeleira p/ gatas",
-              serie: '4x12',
+              serie: '3x15 - 3, 2, 1 Tempo',
+            ),
+            ExercicioCardWidget(
+              exercicio:
+                  "Extensao unilat. no cross com apoio do joelho - Ext Quadril",
+              serie: '3x15',
+            ),
+            ExercicioCardWidget(
+              exercicio: "Supino Sentado",
+              serie: '4x8',
+            ),
+            ExercicioCardWidget(
+              exercicio: "Tríceps corda polia alta",
+              serie: '4x8',
+            ),
+            ExercicioCardWidget(
+              exercicio: "Tríceps unilat. halt francesa - em pé",
+              serie: '4x8',
             ),
             ExercicioCardWidget(
               exercicio: "Abdominal simultâneo",
-              serie: '3x15',
+              serie: '3x20',
             ),
             ExercicioCardWidget(
-              exercicio: "Abdominal diagonal",
-              serie: '3x15',
-            ),
-            ExercicioCardWidget(
-              exercicio: "Tríceps polia alta",
-              serie: '3x15',
-            ),
-            ExercicioCardWidget(
-              exercicio: "Tríceps halt. unilat. d. dorsal",
-              serie: '3x12',
-            ),
-            ExercicioCardWidget(
-              exercicio: "Alongamento tríceps sureal no espaldar",
-              serie: '3x10s',
+              exercicio: "Prancha",
+              serie: '3x 1min',
             ),
             ExercicioCardWidget(
               exercicio: "Esteira",

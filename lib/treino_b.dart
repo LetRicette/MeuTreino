@@ -17,56 +17,56 @@ class TreinoB extends StatelessWidget {
               serie: "3x10",
             ),
             ExercicioCardWidget(
-              exercicio: "Pulley fechado supinado médio",
-              serie: "4x12",
+              exercicio: "Pulley aberto pronado",
+              serie: "4x10",
+            ),
+            ExercicioCardWidget(
+              exercicio: "Remada unilat. curvado c/ apoio",
+              serie: '4x10',
             ),
             ExercicioCardWidget(
               exercicio: "Remada sentado",
-              serie: '4x12',
+              serie: '3x10',
+            ),
+            ExercicioCardWidget(
+              exercicio: "Elevaçao de ombro halt.",
+              serie: '4x10',
             ),
             ExercicioCardWidget(
               exercicio: "Cadeira Flexora",
-              serie: '4x12',
+              serie: '4x10',
             ),
             ExercicioCardWidget(
               exercicio: "STHIFF c/ HBL(barra)",
-              serie: '4x12',
+              serie: '4x10',
             ),
             ExercicioCardWidget(
-              exercicio: "Cadeira abdutora",
-              serie: '4x15',
+              exercicio: "Cadeira adutora progressiva",
+              serie: '5x10 aumentando peso',
             ),
             ExercicioCardWidget(
-              exercicio: "Abdução de quadril Decubito Lateral Caneleira",
-              serie: '4x12',
-            ),
-            ExercicioCardWidget(
-              exercicio: "Abdominal intra",
-              serie: '3x20',
-            ),
-            ExercicioCardWidget(
-              exercicio: "Prancha",
-              serie: '3x45s',
-            ),
-            ExercicioCardWidget(
-              exercicio: "Entensão de ombro cross",
-              serie: '3x15',
-            ),
-            ExercicioCardWidget(
-              exercicio: "Bíceps c/ Halt.",
+              exercicio: "Adução de quadril Decubito Lateral Caneleira",
               serie: '3x12',
             ),
             ExercicioCardWidget(
-              exercicio: "Alongamento tríceps sureal no espaldar",
-              serie: '3x10s',
+              exercicio: "Bíceps na barra do cross",
+              serie: '4x8',
+            ),
+            ExercicioCardWidget(
+              exercicio: "Bíceps inverso cross",
+              serie: '3x8',
+            ),
+            ExercicioCardWidget(
+              exercicio: "Abdominal intra",
+              serie: '4x20',
+            ),
+            ExercicioCardWidget(
+              exercicio: "Prancha",
+              serie: '3x 1min',
             ),
             ExercicioCardWidget(
               exercicio: "Esteira",
               serie: '30min',
-            ),
-            ExercicioCardWidget(
-              exercicio: "Bike",
-              serie: '15min',
             ),
           ],
         ),
